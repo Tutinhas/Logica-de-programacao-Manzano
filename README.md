@@ -1,2 +1,2 @@
-# Lógica de programação / Manzano
-Exercícios de lógica em Portugol
+# Lógica de programação / Portugol
+Exercícios de lógica - Apostila Manzano.
